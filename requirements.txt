@@ -3,7 +3,8 @@ pandas
 scipy
 matplotlib
 streamlit
-ydata-profiling
-streamlit-pandas-profiling
 openpyxl
 xlrd
+ydata-profiling>=4.1.0
+streamlit-pandas-profiling
+visions==0.7.5
